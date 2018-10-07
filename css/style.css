@@ -4,7 +4,7 @@
 body { 
     font: 16px Helvetica, Sans-Serif; 
     line-height: 24px; 
-    background-image: url("/images/abstract-white-background-3.png"); }
+    }
 .clear { 
     clear: both; }        
 #page-wrap { 
